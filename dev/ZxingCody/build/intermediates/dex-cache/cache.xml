@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\ZxingCody3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="df12335c33f8c15a48e6d049645cafb34a53e450">
+        <dex dex="D:\Android\project\ZxingCody3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ea801940c5bb6909926f8bd72bafa7847ff01a07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\ZxingCody2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7a73128ac36a8bb7aaad336e0989b6ff521b6166">
+        <dex dex="D:\Android\project\ZxingCody2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1aab8313e009e0a6524a22d9bf8bce19318c0589\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\ZxingCody2\app\libs\zxing-core-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3b4014ff44424c046538d6aa242d590f9ceb6cf">
+        <dex dex="D:\Android\project\ZxingCody2\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing-core-3.3.1_22d1004ae44f29b92ad9008a1c5e5cc728c4b606\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eaa2530cf6bd629fb919db1e5476a201911a9f4a">
+        <dex dex="D:\Android\project\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_992c1f5b9e9cd6422ff9c99dc0a37cd2b31c0d5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\ZxingCody\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8818230f140a5ea13a490d60dc8367d83ac617d2">
+        <dex dex="D:\Android\project\ZxingCody\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ac632fabdb02e52d0d12766d50a8461af36f626f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\ZxingCody2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed3cd54e142ba0cb9dfbcc7140cd005dad95efae">
+        <dex dex="D:\Android\project\ZxingCody2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f9d4e35c15e55b97bc32d3827aafcdde515db30d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\ZxingCody\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9d99db99a3d36834fa2e2d867cf9fbd122ce80a">
+        <dex dex="D:\Android\project\ZxingCody\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8a1802e278913997b4d6fc2c0ceda46556524b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\ZxingCody3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05d57ba579fe22b7e36fa0fceb7196c2125388fa">
+        <dex dex="D:\Android\project\ZxingCody3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f1f9a62dd722df70c0cc1984b0a1212c79028152\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\android\app\libs\zxing-core-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3b4014ff44424c046538d6aa242d590f9ceb6cf">
+        <dex dex="D:\Android\project\android\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing-core-3.3.1_9886524d201f5c1518c8c4d77384861ba5ea2c10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\ZxingCody\app\libs\zxing-core-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3b4014ff44424c046538d6aa242d590f9ceb6cf">
+        <dex dex="D:\Android\project\ZxingCody\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing-core-3.3.1_16bd15945f5d92db42a2535cbdaa606de8625bdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8031059b73255c77c01ef4e2d538070414ab0f91">
+        <dex dex="D:\Android\project\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a5a5022c75bcec5c36c37a005b48be287e86656c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\project\ZxingCody3\app\libs\zxing-core-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3b4014ff44424c046538d6aa242d590f9ceb6cf">
+        <dex dex="D:\Android\project\ZxingCody3\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing-core-3.3.1_44b0e8faec49e16b495ec755be4056ad56ecc2e2\classes.dex" />
+    </item>
+
+</items>
